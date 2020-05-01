@@ -1,0 +1,23 @@
+{
+  "name": "rcf-nanolog",
+  "version": "1.0.0",
+  "description": "Tiny logging system with colored output.",
+  "main": "nanolog.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "log",
+    "nano",
+    "logging",
+    "library"
+  ],
+  "author": "Ryan Fleck",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^25.5.3"
+  }
+}
