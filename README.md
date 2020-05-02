@@ -1,6 +1,6 @@
 # TERALOG
 
-[![Build Status](https://travis-ci.com/RyanFleck/nanolog.svg?branch=master)](https://travis-ci.com/RyanFleck/nanolog)
+[![Build Status](https://travis-ci.com/RyanFleck/teralog.svg?branch=master)](https://travis-ci.com/RyanFleck/teralog)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Tiny logging system with multi-colored output. An experiment in exporting and using
