@@ -1,10 +1,21 @@
-# nanolog
+# TERALOG
 
 [![Build Status](https://travis-ci.com/RyanFleck/nanolog.svg?branch=master)](https://travis-ci.com/RyanFleck/nanolog)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Tiny logging system with multi-colored output. An experiment in exporting and using
 NPM packages in projects.
+
+## Features:
+
+1. Prints to console.
+
+## Planned Features:
+
+1. Fix Jest tests so they work on Travis? Fine on local.
+1. Deploy on NPM
+1. Search down file tree for git repository to use as 'file root'
+1. Log to file
 
 ### Development Information:
 
