@@ -4,7 +4,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Tiny logging system with multi-colored output. An experiment in exporting and using
-NPM packages in projects.
+NPM packages in projects. Published at [npmjs.com/package/teralog](https://www.npmjs.com/package/teralog)
 
 ## Features:
 

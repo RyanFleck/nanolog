@@ -1,4 +1,4 @@
-class FileLogger {
+export default class FileLogger {
     constructor(name) {
         this.name = name;
     }
@@ -9,5 +9,3 @@ class FileLogger {
         return out;
     }
 }
-
-module.exports = FileLogger;
