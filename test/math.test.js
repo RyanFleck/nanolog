@@ -1,4 +1,4 @@
-import { sum, product } from '../src/Arithmetic';
+import { sum, product } from '../src/math';
 
 test('Sum function adds 1 and 2', () => {
     expect(sum(1, 2)).toBe(3);
