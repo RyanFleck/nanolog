@@ -1,5 +1,6 @@
 {
     "name": "teralog",
+    "type": "module",
     "version": "1.0.0",
     "description": "Paradoxically tiny logging system with colored output.",
     "main": "src/teralog.js",
