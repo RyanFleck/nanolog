@@ -39,8 +39,5 @@
         "eslint-plugin-react-hooks": "^2.5.1",
         "jest": "^25.5.4",
         "prettier": "^2.0.5"
-    },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
     }
 }
