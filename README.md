@@ -9,11 +9,11 @@ NPM packages in projects. Published at [npmjs.com/package/teralog](https://www.n
 ## Features:
 
 1. Prints to console.
+1. Fix Jest tests so they work on Travis? Fine on local.
+1. Deploy on NPM
 
 ## Planned Features:
 
-1. Fix Jest tests so they work on Travis? Fine on local.
-1. Deploy on NPM
 1. Search down file tree for git repository to use as 'file root'
 1. Log to file
 

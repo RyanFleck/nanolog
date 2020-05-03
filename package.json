@@ -1,12 +1,12 @@
 {
     "name": "teralog",
-    "version": "1.0.19",
+    "version": "1.1.0",
     "repository": {
         "url": "https://github.com/RyanFleck/teralog"
     },
     "description": "Paradoxically tiny logging system with colored output. Experiment for learning how to use NPM.",
-    "main": "dist/math.js",
-    "module": "src/math.js",
+    "main": "dist/index.js",
+    "module": "src/index.js",
     "scripts": {
         "test": "jest",
         "build": "babel src -d dist",
