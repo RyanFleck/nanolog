@@ -17,6 +17,12 @@ NPM packages in projects. Published at [npmjs.com/package/teralog](https://www.n
 1. Search down file tree for git repository to use as 'file root'
 1. Log to file
 
+## Usage:
+
+```
+import
+```
+
 ### Development Information:
 
 1. Using _VS Code_ with [_Eslint_](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [_Prettier_](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) plugins.
