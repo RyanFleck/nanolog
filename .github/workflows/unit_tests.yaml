@@ -4,7 +4,7 @@ on: push
 
 jobs:
     jest:
-        name: Jest
+        name: Semantic Release
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2

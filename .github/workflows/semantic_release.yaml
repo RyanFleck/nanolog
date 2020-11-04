@@ -1,0 +1,14 @@
+name: Semantic Release
+
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    jest:
+        name: Jest
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: actions/setup-node@v1
